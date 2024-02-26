@@ -11,9 +11,6 @@
 
 #include "credentials.h" // Network name, password, and private API key
 
-#define WIFI_SSID "Cardoso4"
-#define WIFI_PWD "Mjos-16232711."
-
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
